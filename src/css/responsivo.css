@@ -1,0 +1,34 @@
+@media (max-width: 768px){
+
+
+    .container-principal{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    }
+
+    .container-principal .container-texto{
+      width: 100%;
+      display: flex;
+    }
+
+    .container-principal .container-texto h2{
+        font-size: 17px;
+        align-self: center;
+    }
+
+    .container-principal .container-texto p{
+        align-self: center;
+    }
+
+    .container-principal .container-texto button{
+        align-self: center;
+    }
+
+
+    .logo{
+        justify-content: center;
+    }
+
+}

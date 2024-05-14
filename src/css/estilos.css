@@ -1,0 +1,90 @@
+html{
+    background: linear-gradient(to top,  hsl(257, 40%, 49%), hsl(300, 69%, 71%));
+    color: #fff;
+    font-family: 'Poppins';
+}
+
+body{
+    background: url(../images/bg-desktop.svg) center center no-repeat;
+    background-size: cover;
+    height: 100vh;
+  
+}
+
+.header{
+    margin: 30px 50px;
+}
+
+.container-principal{
+    display: flex;
+    align-items: center;
+    margin: 0px 50px;
+}
+
+.container-principal .container-image{
+    padding: 10px;
+    min-width: 50%;
+}
+
+.container-principal .container-texto{
+    padding: 8px;
+    min-width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start; 
+}
+
+.container-principal .container-texto h2{
+    width: 70%;
+    margin: 20px;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.container-principal .container-texto p{
+    width: 90%;
+    margin: 20px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+.container-principal .container-texto button{
+    height: 50px;
+    width: 200px;
+    margin: 20px;
+    background-color:#fff;
+    border: none;
+    border-radius: 40px;
+    box-shadow: 2px 2px 4px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container-principal .container-texto button:hover {
+    transform: translate(2px, 2px);
+    background: linear-gradient( to left, hsl(257, 40%, 49%), hsl(300, 69%, 71%));
+    color: #fff;
+    border: 3px solid  #000;
+}
+
+.logo{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 40px;
+    gap: 20px;
+}
+
+.logo a{
+    border: 2px solid;
+    font-size: 16px;
+    padding:8px;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
+
+.logo a:hover{
+    color: #000;
+}
