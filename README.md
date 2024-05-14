@@ -33,7 +33,7 @@ Os usuários devem ser capazes de:
 ### Links
 
 - URL da solução: [Git Clone](https://github.com/guilherme-silvam/quest-html-css-avancado.git)
-- URL do site ao vivo: [Adicione a URL do site ao vivo aqui](https://your-live-site-url.com)
+- URL do site ao vivo: [Adicione a URL do site ao vivo aqui](https://guilherme-silvam.github.io/quest-html-css-avancado/)
 
 ## Meu processo
 
@@ -55,6 +55,6 @@ Planejo continuar aprimorando minhas habilidades de desenvolvimento, especialmen
 
 ## Autor
 
-- Site - [Guilherme](https://www.your-site.com)
+- Site - [Guilherme](https://guilherme-silvam.github.io/quest-html-css-avancado/)
 - Frontend Mentor - [guilherme-silvam](https://www.frontendmentor.io/home)
 - Github - [@guilherme-silvam](https://github.com/guilherme-silvam)
