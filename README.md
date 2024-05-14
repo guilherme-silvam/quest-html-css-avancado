@@ -32,7 +32,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [Git Clone](https://github.com/guilherme-silvam/Results-summary-component.git)
+- URL da solução: [Git Clone](https://github.com/guilherme-silvam/quest-html-css-avancado.git)
 - URL do site ao vivo: [Adicione a URL do site ao vivo aqui](https://your-live-site-url.com)
 
 ## Meu processo
